@@ -1,0 +1,398 @@
+{
+  "updatedAt": "2025-11-27T08:23:10.882Z",
+  "data": {
+    "usa": {
+      "indices": {
+        "Dow Jones": {
+          "value": "47,427.12",
+          "found": true
+        },
+        "S&P 500": {
+          "value": "6,812.60",
+          "found": true
+        },
+        "NASDAQ": {
+          "value": "22,717.08",
+          "found": true
+        }
+      },
+      "gdp": {
+        "gdp": 29.18,
+        "year": "2024",
+        "found": true
+      }
+    },
+    "can": {
+      "indices": {
+        "S&P/TSX Composite": {
+          "value": "31,180.25",
+          "found": true
+        }
+      },
+      "gdp": {
+        "gdp": 2.24,
+        "year": "2024",
+        "found": true
+      }
+    },
+    "mex": {
+      "indices": {
+        "IPC BMV": {
+          "value": "63,235.11",
+          "found": true
+        }
+      },
+      "gdp": {
+        "gdp": 1.85,
+        "year": "2024",
+        "found": true
+      }
+    },
+    "bra": {
+      "indices": {
+        "IBOVESPA": {
+          "value": "158,567.53",
+          "found": true
+        }
+      },
+      "gdp": {
+        "gdp": 2.18,
+        "year": "2024",
+        "found": true
+      }
+    },
+    "arg": {
+      "indices": {
+        "MERVAL": {
+          "value": "2,865,760.19",
+          "found": true
+        }
+      },
+      "gdp": {
+        "gdp": 0.63,
+        "year": "2024",
+        "found": true
+      }
+    },
+    "col": {
+      "indices": {
+        "COLCAP": {
+          "value": "2,043.00",
+          "found": true
+        }
+      },
+      "gdp": {
+        "gdp": 0.42,
+        "year": "2024",
+        "found": true
+      }
+    },
+    "chl": {
+      "indices": {
+        "S&P IPSA": {
+          "value": "9,950.81",
+          "found": true
+        }
+      },
+      "gdp": {
+        "gdp": 0.33,
+        "year": "2024",
+        "found": true
+      }
+    },
+    "gbr": {
+      "indices": {
+        "FTSE 100": {
+          "value": "9,691.58",
+          "found": true
+        }
+      },
+      "gdp": {
+        "gdp": 3.64,
+        "year": "2024",
+        "found": true
+      }
+    },
+    "deu": {
+      "indices": {
+        "DAX 40": {
+          "value": "23,726.22",
+          "found": true
+        }
+      },
+      "gdp": {
+        "gdp": 4.66,
+        "year": "2024",
+        "found": true
+      }
+    },
+    "fra": {
+      "indices": {
+        "CAC 40": {
+          "value": "8,096.44",
+          "found": true
+        }
+      },
+      "gdp": {
+        "gdp": 3.16,
+        "year": "2024",
+        "found": true
+      }
+    },
+    "ita": {
+      "indices": {
+        "FTSE MIB": {
+          "value": "43,130.33",
+          "found": true
+        }
+      },
+      "gdp": {
+        "gdp": 2.37,
+        "year": "2024",
+        "found": true
+      }
+    },
+    "esp": {
+      "indices": {
+        "IBEX 35": {
+          "value": "16,361.10",
+          "found": true
+        }
+      },
+      "gdp": {
+        "gdp": 1.72,
+        "year": "2024",
+        "found": true
+      }
+    },
+    "nld": {
+      "indices": {
+        "AEX": {
+          "value": "932.76",
+          "found": true
+        }
+      },
+      "gdp": {
+        "gdp": 1.23,
+        "year": "2024",
+        "found": true
+      }
+    },
+    "che": {
+      "indices": {
+        "SMI": {
+          "value": "12,814.91",
+          "found": true
+        }
+      },
+      "gdp": {
+        "gdp": 0.94,
+        "year": "2024",
+        "found": true
+      }
+    },
+    "nga": {
+      "indices": {
+        "NGX All-Share": {
+          "value": "143,068.38",
+          "found": true
+        }
+      },
+      "gdp": {
+        "gdp": 0.19,
+        "year": "2024",
+        "found": true
+      }
+    },
+    "zaf": {
+      "indices": {
+        "JSE Top 40": {
+          "value": "104,252.58",
+          "found": true
+        }
+      },
+      "gdp": {
+        "gdp": 0.4,
+        "year": "2024",
+        "found": true
+      }
+    },
+    "egy": {
+      "indices": {
+        "EGX 30": {
+          "value": "39,537.20",
+          "found": true
+        }
+      },
+      "gdp": {
+        "gdp": 0.39,
+        "year": "2024",
+        "found": true
+      }
+    },
+    "mar": {
+      "indices": {
+        "MASI": {
+          "value": "18,205.28",
+          "found": true
+        }
+      },
+      "gdp": {
+        "gdp": 0.15,
+        "year": "2024",
+        "found": true
+      }
+    },
+    "jpn": {
+      "indices": {
+        "Nikkei 225": {
+          "value": "48,625.88",
+          "found": true
+        }
+      },
+      "gdp": {
+        "gdp": 4.03,
+        "year": "2024",
+        "found": true
+      }
+    },
+    "chn": {
+      "indices": {
+        "Shanghai Composite": {
+          "value": "3,864.18",
+          "found": true
+        }
+      },
+      "gdp": {
+        "gdp": 18.74,
+        "year": "2024",
+        "found": true
+      }
+    },
+    "ind": {
+      "indices": {
+        "Nifty 50": {
+          "value": "26,205.30",
+          "found": true
+        },
+        "BSE Sensex": {
+          "value": "85,609.51",
+          "found": true
+        }
+      },
+      "gdp": {
+        "gdp": 3.91,
+        "year": "2024",
+        "found": true
+      }
+    },
+    "idn": {
+      "indices": {
+        "IDX Composite": {
+          "value": "8,553.69",
+          "found": true
+        }
+      },
+      "gdp": {
+        "gdp": 1.4,
+        "year": "2024",
+        "found": true
+      }
+    },
+    "kor": {
+      "indices": {
+        "KOSPI": {
+          "value": "3,960.87",
+          "found": true
+        }
+      },
+      "gdp": {
+        "gdp": 1.71,
+        "year": "2023",
+        "found": true
+      }
+    },
+    "sgp": {
+      "indices": {
+        "Straits Times Index": {
+          "value": "4,501.57",
+          "found": true
+        }
+      },
+      "gdp": {
+        "gdp": 0.55,
+        "year": "2024",
+        "found": true
+      }
+    },
+    "hkg": {
+      "indices": {
+        "Hang Seng Index": {
+          "value": null,
+          "found": false
+        }
+      },
+      "gdp": {
+        "gdp": 0.41,
+        "year": "2024",
+        "found": true
+      }
+    },
+    "sau": {
+      "indices": {
+        "Tadawul All Share": {
+          "value": "10,635.38",
+          "found": true
+        }
+      },
+      "gdp": {
+        "gdp": 1.24,
+        "year": "2024",
+        "found": true
+      }
+    },
+    "are": {
+      "indices": {
+        "ADX General": {
+          "value": "9,764",
+          "found": true
+        },
+        "DFM General": {
+          "value": null,
+          "found": false
+        }
+      },
+      "gdp": {
+        "gdp": 0.54,
+        "year": "2024",
+        "found": true
+      }
+    },
+    "aus": {
+      "indices": {
+        "ASX 200": {
+          "value": "8,606.50",
+          "found": true
+        }
+      },
+      "gdp": {
+        "gdp": 1.75,
+        "year": "2024",
+        "found": true
+      }
+    },
+    "nzl": {
+      "indices": {
+        "NZX 50": {
+          "value": "13,562.01",
+          "found": true
+        }
+      },
+      "gdp": {
+        "gdp": 0.26,
+        "year": "2024",
+        "found": true
+      }
+    }
+  }
+}

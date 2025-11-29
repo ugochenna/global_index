@@ -60,12 +60,14 @@ const App: React.FC = () => {
       />
 
       {/* Brand Header */}
-      <div className="absolute top-4 left-4 z-20 pointer-events-none">
-        <h1 className="text-3xl font-black text-white drop-shadow-[0_2px_4px_rgba(0,0,0,0.8)] tracking-tight">
-          Global<span className="text-blue-500">Markets</span> 3D
-        </h1>
-        <p className="text-blue-200 text-sm font-medium drop-shadow-md bg-slate-900/50 px-2 py-1 rounded inline-block">
-          TeenVestor Learning Hub
+      <div className="absolute top-4 left-4 z-20 pointer-events-none flex flex-col items-center">
+        <img
+          src="/teenvestor-logo.png"
+          alt="TeenVestor"
+          className="h-10 drop-shadow-[0_2px_4px_rgba(0,0,0,0.8)]"
+        />
+        <p className="text-slate-300 text-sm font-semibold mt-1 tracking-wide drop-shadow-md text-center">
+          Global Markets 3D
         </p>
       </div>
 
